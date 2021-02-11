@@ -1,0 +1,22 @@
+  .data {
+      width: 70px;
+      height: 80px;
+      border: 1px solid red; 
+      overflow:hidden;
+/*      display: inline-block;*/
+      float: left;
+
+
+}
+
+.container{
+    margin:0 auto;
+}
+  
+
+.X {
+      font-size:70px;
+      width:100%;
+      text-align:center; 
+      height:80px;}
+
